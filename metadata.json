@@ -1,0 +1,6 @@
+{
+  "name": "G300 Smart Glasses",
+  "description": "انتقال خودکار و باکیفیت عکس‌های عینک هوشمند G300 به گوشی به محض فشردن دکمه عینک با استفاده از بلوتوث",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
